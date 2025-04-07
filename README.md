@@ -2,9 +2,9 @@
 
 ## 🚀 Introduction
 
-- This repository contains the code and design files for a **Wheeled-Leg Robot**, a hybrid mobile platform that combines the **speed and efficiency of wheels** with the **agility and adaptability of legs**.
+- This repository contains the code and design files for a Wheeled-Leg Robot, a hybrid mobile platform that combines the speed and efficiency of wheels with the agility and adaptability of legs.
 
-- Designed for **RoboMaster 2024**, this robot is capable of **traversing a wide range of terrains**, smoothly transitioning between wheeled and legged locomotion modes to handle **complex and dynamic environments**.
+- Designed for RoboMaster 2024, this robot is capable of traversing a wide range of terrains, smoothly transitioning between wheeled and legged locomotion modes to handle complex and dynamic environments.
 
 
 ## 💻 Development Environment
